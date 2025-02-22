@@ -65,5 +65,5 @@ This python script allows you to export all the Telegram channels you are a memb
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contribution
-Feel free to contribute! Open an issue or submit a pull request. 😊
+Feel free to contribute! Open an issue or submit a pull request.
 

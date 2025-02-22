@@ -46,7 +46,7 @@ This python script allows you to export all the Telegram channels you are a memb
    - A **verification code** will be sent to Telegram—enter it in the terminal.
 
 5. **Check the exported file**:
-   - After running, a file called `telegram_channels.csv` will be created in C:\Users\YourUsername, containing:
+   - After running, a file called `telegram_channels.csv` will be created in `C:\Users\YourUsername`, containing:
      ```csv
      Channel Name,Channel ID,Username,Channel Link
      Crypto News,123456789,cryptonews,https://t.me/cryptonews
